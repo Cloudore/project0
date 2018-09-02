@@ -1,15 +1,20 @@
 body {
     background-color: white;
+    border: 10px;
+    padding: 10px;
     border-color: black;
+    border-style: solid;
+    width: 50%
 }
 
-h1, h2{
-    width: 50%;
+h1, h2 {
+    color: black;
     text-align: center;
+
 }
 
 p {
-    width: 50%;
+    width: auto;
     color: black;
-    text-align: center;
+    text-align: left;
 }
